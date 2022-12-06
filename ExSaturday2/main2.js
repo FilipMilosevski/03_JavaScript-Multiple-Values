@@ -93,3 +93,7 @@ console.log (fm)
 
 fi = ["kola", "motor", "kamion", "avion", "brod"]
 console.log(fi);
+
+
+
+
